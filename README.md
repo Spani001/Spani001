@@ -23,5 +23,5 @@ I'm a final-year Computer Science Engineering student looking for internship and
 - Sales Data Dashboard
 
 ## 📫 Connect with me
-- LinkedIn: add your link here
-- Email: add your email here
+- Email: subhampani89@gmail.com
+  
